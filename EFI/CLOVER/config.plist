@@ -152,7 +152,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>Rename _RMV to XRMV in RP01.PXSX and use with SSDT-TYPC.aml for USB-C hot plug support</string>
+					<string>Rename _RMV to XRMV in RP05.PXSX and use with SSDT-TYPC.aml for USB-C hot plug support</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
